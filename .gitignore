@@ -2,3 +2,4 @@
 venv
 db.sqlite3
 ai/rag/rag_db/
+__pycache__/
