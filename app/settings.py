@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-8btg(y_n=z=r9$)hiw_we-=&7^fi#o+qw!#$@&5h(t_%oz*h@!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['chat-entrevista.onrender.com']
 
 
 # Application definition
